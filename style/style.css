@@ -691,6 +691,36 @@
   background: url(../images/form-city.jpg);
   background-position-y: initial;
 }
+@media screen and (max-width: 1660px) {
+  .section_four .contact_form {
+    left: 27%;
+  }
+}
+@media screen and (max-width: 1525px) {
+  .section_four .contact_form {
+    left: 25%;
+  }
+}
+@media screen and (max-width: 1440px) {
+  .section_four .contact_form {
+    left: 23%;
+  }
+}
+@media screen and (max-width: 1366px) {
+  .section_four .contact_form {
+    left: 22%;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .section_four .contact_form {
+    left: 20%;
+  }
+}
+@media screen and (max-width: 1300px) {
+  .section_four .contact_form {
+    left: 20%;
+  }
+}
 .section_four .contact_form-line {
   margin: 0 auto;
   display: block;

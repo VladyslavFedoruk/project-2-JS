@@ -739,8 +739,30 @@
         background: #FFFFFF;
         background: url(../images/form-city.jpg);
         background-position-y: initial;
-        // background-repeat: no-repeat;
 
+        @media screen and (max-width: 1660px) {
+            left: 27%;
+        }
+
+        @media screen and (max-width: 1525px) {
+            left: 25%;
+        }
+
+        @media screen and (max-width: 1440px) {
+            left: 23%;
+        }
+
+        @media screen and (max-width: 1366px) {
+            left: 22%;
+        }
+
+        @media screen and (max-width: 1300px) {
+            left: 20%;
+        }
+
+        @media screen and (max-width: 1300px) {
+            left: 20%;
+        }
 
         &-line {
             margin: 0 auto;
