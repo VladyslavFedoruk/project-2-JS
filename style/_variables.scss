@@ -52,7 +52,7 @@
 }
 
 .gallery__item:hover::after {
-    background: url(/images/zoom.svg);
+    background: url(../images/zoom.svg);
     background-repeat: no-repeat;
     background-position: center;
     cursor: pointer;
